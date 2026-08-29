@@ -1,7 +1,7 @@
 ```
 ┌──────────────────────────────────────────────────┐
 │                                                  │
-│   kenneth m. tañeza                              │
+│   Kenneth M. Tañeza                              │
 │   full-stack · ai integration · infrastructure   │
 │                                                  │
 │   san jose del monte, bulacan, philippines       │
