@@ -1,14 +1,3 @@
-```
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│   Kenneth M. Tañeza                              │
-│   full-stack · ai integration · infrastructure   │
-│                                                  │
-│   remote · philippines · utc+8                   │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
-
 ```console
 $ whoami
 
