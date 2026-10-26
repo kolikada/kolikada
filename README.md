@@ -2,7 +2,7 @@
 $ whoami
 
 Full-stack developer who ships the whole thing — the front end,
-the Postgres schema underneath it, the API in between, and the
+schema underneath it, the API in between, and the
 Ubuntu box the whole lot runs on.
 
 I build AI-augmented SaaS and business systems for small
@@ -12,24 +12,6 @@ community running. Most days I'm pair-programming with an AI
 agent — I treat it like a fast junior: I own the architecture,
 the security model, and the review.
 ```
-
-```console
-$ cat ./now
-
-founder & lead developer     2026 →
-    running my own studio — a multi-tenant saas/paas
-    for small businesses: client portals, automation,
-    ai support, websites, hosting
-
-head developer               2025 →
-    game hosting & server infrastructure company —
-    bare metal + vps fleet, billing, full devops
-
-lead dev & community manager 2025 →
-    project zomboid discord community — discord.js
-    bots, server mods, events, community ops
-```
-
 ### stack
 
 ```
@@ -50,19 +32,6 @@ ai       claude api · claude code · mcp · agent harnesses
 sec      oauth 2.0/pkce · postgres rls · aes-256-gcm · totp
          owasp · rate limiting · turnstile · secrets mgmt
 pay      gcash · qr ph · paymongo · stripe
-```
-
-### where the hours go
-
-```console
-$ time-spent --since 2025
-
-next.js / react       ███████████████████░░░░░░░░░
-supabase / postgres   ████████████████░░░░░░░░░░░░
-linux / devops        █████████████░░░░░░░░░░░░░░░
-php / laravel         ██████████░░░░░░░░░░░░░░░░░░
-claude api / agents   ████████░░░░░░░░░░░░░░░░░░░░
-discord.js            ████░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
 ### what i build
@@ -134,43 +103,8 @@ discord.js            ████░░░░░░░░░░░░░░░�
 ### how i work
 
 ```console
-$ cat ./principles
-
-- security is designed in, not bolted on: authz lives on the
-  server, secrets never touch the client, rls on every table.
-- boring, right-sized stacks. managed services until they stop
-  making sense, then self-host.
-- ai writes a lot of my code. i still read every line of it.
-- ship small, ship often, preview-deploy everything.
-- the job isn't done at deploy — uptime, backups, migrations
-  and the 2am fix are part of it.
-```
-
-```console
-$ cat ./also
-
-- write MSAs, statements of work and data-privacy docs for
-  client work (ph ra 10173, gdpr, ccpa)
-- research and pick payment, hosting and infra vendors
-- run live server migrations and map wipes without losing
-  the community
-- write announcements, FAQs and patch notes people actually read
-- background in high-volume real-time chat ops — fast, clear,
-  on-tone written communication
-```
-
-```console
 $ ls -la ~/repos
 
 # most of the good stuff sits behind drwx------ — client and
 # company work under NDA. happy to walk through any of it.
-```
-
-```console
-$ cat contact.txt
-
-github    github.com/kolikada
-based     philippines · utc+8 · remote
-langs     english (professional) · filipino (native)
-open to   remote full-stack, ai integration & infra work
 ```
